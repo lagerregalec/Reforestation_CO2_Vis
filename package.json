@@ -76,7 +76,7 @@
     "glslify-hex": "^2.0.1",
     "i": "^0.3.6",
     "osc-js": "^2.1.0",
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "stats-js": "^1.0.1",
     "stats.js": "^0.17.0",
     "three": "^0.111.0",
